@@ -1,0 +1,23 @@
+<div class="container" style="width: 60%;">
+    <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">idHabitacion</th>
+            <th scope="col">lugar</th>
+            <th scope="col">cantidadPermitida</th>
+            <th scope="col">cuposDisponibles</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr  *ngFor="let habitacion of habitaciones;  index as i ">
+            <th scope="row">1</th>
+            <td>{{ habitacion.idHabitacion}}</td>
+            <td>{{ habitacion.lugar}}</td>
+            <td>{{ habitacion.cantidadPermitida}}</td>
+            <td>{{ habitacion.cuposDisponibles}}</td>
+          </tr>
+        </tbody>
+      </table>
+</div>
+

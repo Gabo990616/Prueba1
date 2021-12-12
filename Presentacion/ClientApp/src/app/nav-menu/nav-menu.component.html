@@ -1,0 +1,43 @@
+<header>
+  <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+    <div class="container">
+      <a class="navbar-brand" [routerLink]="['/']">Presentacion</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse"
+        aria-label="Toggle navigation" [attr.aria-expanded]="isExpanded" (click)="toggle()">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="navbar-collapse collapse d-sm-inline-flex justify-content-end" [ngClass]="{ show: isExpanded }">
+        <ul class="navbar-nav flex-grow">
+          <li class="nav-item" [routerLinkActive]="['link-active']" [routerLinkActiveOptions]="{ exact: true }">
+            <a class="nav-link text-dark" [routerLink]="['home']">Home</a>
+          </li>
+          <li class="nav-item" *ngIf="!usuario" [routerLinkActive]="['link-active']">
+            <a class="nav-link text-dark" [routerLink]="['login']">Login</a>
+          </li>
+          <li class="nav-item" *ngIf="!usuario" [routerLinkActive]="['link-active']">
+            <a class="nav-link text-dark" [routerLink]="['registrate']">Registrate</a>
+          </li>
+          <li class="nav-item" *ngIf="usuario" [routerLinkActive]="['link-active']">
+            <a class="nav-link text-dark" [routerLink]="['registrar-habitaciones']">Registrar habitaciones</a>
+          </li>
+          <li class="nav-item dropdown" *ngIf="usuario">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown03" data-bs-toggle="dropdown"
+              aria-expanded="false">Habitacion</a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown03">
+              <li><a class="dropdown-item" [routerLink]="['/consultar-habitaciones-asignadas']" href="#">Asignadas</a>
+              </li>
+              <li><a class="dropdown-item" [routerLink]="['/consultar-habitaciones-disponibles']"
+                  href="#">Disponibles</a></li>
+              <li><a class="dropdown-item" [routerLink]="['/asignar-habitacion']"
+                  href="#">Asignar</a></li>
+            </ul>
+          </li>
+          <li class="nav-item" *ngIf="usuario">
+            <a class="nav-link text-dark" (click)="cerrarSesion()">logout</a>
+          </li>
+
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>

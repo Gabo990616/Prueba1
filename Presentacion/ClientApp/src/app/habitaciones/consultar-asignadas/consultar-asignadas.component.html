@@ -1,0 +1,20 @@
+<div class="container" style="width: 60%;">
+    <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">identificacion</th>
+            <th scope="col">IdHabitacion</th>
+            <th scope="col">Lugar</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr  *ngFor="let usuario of usuarios;  index as i ">
+            <th>{{idex}}</th>
+            <td>{{ usuario.identificacion}}</td>
+            <td>{{ usuario.habitacion.idHabitacion}}</td>
+            <td>{{ usuario.habitacion.lugar}}</td>
+          </tr>
+        </tbody>
+      </table>
+</div>

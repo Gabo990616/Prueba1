@@ -1,0 +1,34 @@
+C:\Users\WIN10\Desktop\PruebaFinal\Logica\bin\Debug\net5.0\Logica.deps.json
+C:\Users\WIN10\Desktop\PruebaFinal\Logica\bin\Debug\net5.0\Logica.dll
+C:\Users\WIN10\Desktop\PruebaFinal\Logica\bin\Debug\net5.0\ref\Logica.dll
+C:\Users\WIN10\Desktop\PruebaFinal\Logica\bin\Debug\net5.0\Logica.pdb
+C:\Users\WIN10\Desktop\PruebaFinal\Logica\obj\Debug\net5.0\Logica.csproj.AssemblyReference.cache
+C:\Users\WIN10\Desktop\PruebaFinal\Logica\obj\Debug\net5.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10\Desktop\PruebaFinal\Logica\obj\Debug\net5.0\Logica.AssemblyInfoInputs.cache
+C:\Users\WIN10\Desktop\PruebaFinal\Logica\obj\Debug\net5.0\Logica.AssemblyInfo.cs
+C:\Users\WIN10\Desktop\PruebaFinal\Logica\obj\Debug\net5.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\PruebaFinal\Logica\obj\Debug\net5.0\Logica.dll
+C:\Users\WIN10\Desktop\PruebaFinal\Logica\obj\Debug\net5.0\ref\Logica.dll
+C:\Users\WIN10\Desktop\PruebaFinal\Logica\obj\Debug\net5.0\Logica.pdb
+C:\Users\WIN10\Desktop\PruebaFinal\Logica\bin\Debug\net5.0\Datos.dll
+C:\Users\WIN10\Desktop\PruebaFinal\Logica\bin\Debug\net5.0\Entidad.dll
+C:\Users\WIN10\Desktop\PruebaFinal\Logica\bin\Debug\net5.0\Datos.pdb
+C:\Users\WIN10\Desktop\PruebaFinal\Logica\bin\Debug\net5.0\Entidad.pdb
+C:\Users\WIN10\Desktop\PruebaFinal\Logica\obj\Debug\net5.0\Logica.csproj.CopyComplete
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\PruebaFinal\Logica\bin\Debug\net5.0\Logica.deps.json
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\PruebaFinal\Logica\bin\Debug\net5.0\Logica.dll
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\PruebaFinal\Logica\bin\Debug\net5.0\ref\Logica.dll
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\PruebaFinal\Logica\bin\Debug\net5.0\Logica.pdb
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\PruebaFinal\Logica\bin\Debug\net5.0\Datos.dll
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\PruebaFinal\Logica\bin\Debug\net5.0\Entidad.dll
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\PruebaFinal\Logica\bin\Debug\net5.0\Datos.pdb
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\PruebaFinal\Logica\bin\Debug\net5.0\Entidad.pdb
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\PruebaFinal\Logica\obj\Debug\net5.0\Logica.csproj.AssemblyReference.cache
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\PruebaFinal\Logica\obj\Debug\net5.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\PruebaFinal\Logica\obj\Debug\net5.0\Logica.AssemblyInfoInputs.cache
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\PruebaFinal\Logica\obj\Debug\net5.0\Logica.AssemblyInfo.cs
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\PruebaFinal\Logica\obj\Debug\net5.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\PruebaFinal\Logica\obj\Debug\net5.0\Logica.csproj.CopyComplete
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\PruebaFinal\Logica\obj\Debug\net5.0\Logica.dll
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\PruebaFinal\Logica\obj\Debug\net5.0\ref\Logica.dll
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\PruebaFinal\Logica\obj\Debug\net5.0\Logica.pdb

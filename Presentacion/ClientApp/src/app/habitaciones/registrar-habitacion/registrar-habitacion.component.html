@@ -1,0 +1,17 @@
+<div class="container" style="width: 30%;">
+    <div class="mb-3">
+        <label for="formGroupExampleInput" class="form-label">lugar</label>
+        <input type="text" class="form-control" name="habitacion.lugar" [(ngModel)]="habitacion.lugar" >
+      </div>
+      <div class="mb-3">
+        <label for="formGroupExampleInput2" class="form-label">Cantidad permitida</label>
+        <input type="number" class="form-control" name="habitacion.cantidadPermitida" [(ngModel)]="habitacion.CantidadPermitida">
+      </div>
+      <div class="mb-3">
+        <label for="formGroupExampleInput2" class="form-label">Cupos disponibles</label>
+        <input type="number" class="form-control" name="habitacion.cuposDisponibles" [(ngModel)]="habitacion.CuposDisponibles">
+      </div>
+      <div class="col-12">
+        <button type="submit" class="btn btn-primary" (click)="guardarHabitacion()">Guardar</button>
+      </div>
+</div>
